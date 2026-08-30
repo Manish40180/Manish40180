@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <i>Passionate about turning ideas into products that matter — one commit at a time.</i>
+  Building full-stack applications and exploring AI-powered solutions.
 </p>
 
 ---
@@ -15,6 +15,7 @@
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, and LLMs**
 - 📈 Exploring **FinTech and AI-powered financial analysis**
 - 🐳 Learning and working with **Docker and DevOps fundamentals**
+- 🧩 Solved 200+ problems on LeetCode and GeeksforGeeks
 - 🚀 Always building, learning, and improving
 
 ---
@@ -41,13 +42,13 @@
 
 ### 🤖 AI & Data Science
 
-`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `SQL` • `Machine Learning` • `LLMs`
+`Python` • `Pandas` • `SQL` • `Scikit-learn` • `Machine Learning` • `Data Analysis` • `LLMs`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📈 Stock Market Analysis using FinRobot
+### 📈 [Stock Market Analysis using FinRobot](YOUR_FINROBOT_REPOSITORY_LINK)
 
 AI-driven stock analysis system integrating FinRobot and LLMs to process market data and financial news.
 
@@ -55,7 +56,7 @@ AI-driven stock analysis system integrating FinRobot and LLMs to process market 
 
 ---
 
-### 🛍️ Myntra Website Clone
+### 🛍️ [Myntra Website Clone](YOUR_MYNTRA_REPOSITORY_LINK)
 
 A full-stack e-commerce platform with product listings, filters, cart, wishlist, orders, and authentication.
 
@@ -63,7 +64,7 @@ A full-stack e-commerce platform with product listings, filters, cart, wishlist,
 
 ---
 
-### 🌐 Personal Portfolio Website
+### 🌐 [Personal Portfolio Website](YOUR_PORTFOLIO_REPOSITORY_LINK)
 
 A professional portfolio showcasing my projects, skills, and development journey.
 
@@ -71,7 +72,7 @@ A professional portfolio showcasing my projects, skills, and development journey
 
 ---
 
-## 📚 Certifications & Learning
+## 🏆 Certifications
 
 - 🏆 IBM Data Science Professional Certificate
 - 🔐 Google Cybersecurity Professional Certificate
@@ -95,7 +96,7 @@ A professional portfolio showcasing my projects, skills, and development journey
 
 <p>
   <a href="https://www.linkedin.com/in/manish-yadav">LinkedIn</a>
-  •
+  &nbsp;•&nbsp;
   <a href="https://manish-yadav-kiit.netlify.app/">Portfolio</a>
 </p>
 
