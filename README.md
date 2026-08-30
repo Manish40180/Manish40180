@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Yadav</h1>
 
-<h3 align="center">
-Full-Stack Developer | AI & ML Enthusiast
-</h3>
+<h3 align="center">Full-Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
   <i>Passionate about turning ideas into products that matter — one commit at a time.</i>
@@ -26,26 +24,24 @@ Full-Stack Developer | AI & ML Enthusiast
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
 ### 🌐 Full-Stack Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
 </p>
 
 ### 🗄️ Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,docker,vscode" />
 </p>
 
 ### 🤖 AI & Data Science
 
-<p>
-Python • Pandas • NumPy • Scikit-learn • SQL • Machine Learning • LLMs
-</p>
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `SQL` • `Machine Learning` • `LLMs`
 
 ---
 
@@ -98,13 +94,9 @@ A professional portfolio showcasing my projects, skills, and development journey
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/manish-yadav">
-  LinkedIn
-</a>
-&nbsp; • &nbsp;
-<a href="https://manish-yadav-kiit.netlify.app">
-  Portfolio
-</a>
+  <a href="https://www.linkedin.com/in/manish-yadav">LinkedIn</a>
+  •
+  <a href="https://manish-yadav-kiit.netlify.app/">Portfolio</a>
 </p>
 
 ---
